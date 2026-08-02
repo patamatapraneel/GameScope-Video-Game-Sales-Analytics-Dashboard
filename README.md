@@ -23,8 +23,19 @@ Analyzed 64,000+ video game sales records from 1971–2024.
 - Analyzed sales trends across different years and regions.
 - Studied platform and genre preferences.
 
-## Project Files
+## Repository Contents
 - Power BI Dashboard (.pbix)
 - Dataset
 - Dashboard Screenshots
 - Project Documentation
+
+## Dashboard Preview
+
+### Overview Dashboard
+![Dashboard Overview](Dashboard_Overview.png)
+
+### Analysis Dashboard
+![Dashboard Analysis](Dashboard_Analysis.png)
+
+### Insights Dashboard
+![Dashboard Insights](Dashboard_Insights.png)
